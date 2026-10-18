@@ -80,20 +80,7 @@ nav a.active {
     border: 5px solid #e8e1d5;
     margin-bottom: 15px;
 
-.page-banner h2 {
-    font-size: 45px;
-    margin-bottom: 10px;
-}
-.contact-item {
-    padding: 15px 0;
-    border-bottom: 1px solid #ddd;
-}
-
-.contact-item h3 {
-    color: #f39c12;
-    margin-bottom: 5px;
-}
-.member-card {
+  .member-card {
     width: 250px;
     padding: 20px;
     border-radius: 10px;
